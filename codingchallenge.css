@@ -1,0 +1,85 @@
+body {
+  background-image: url("file:///C:/Users/nineo/Desktop/codingchallenge/img/background.jpg");
+  background-size: cover;
+}
+
+.contenitore{
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 500px;
+    border-radius: 2%;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px 50px 50px 50px;
+}
+
+/* Logo&Text */
+  header > h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #00DD00;
+  }
+
+  .center {
+    display: block;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+
+/* Nav button */
+  .navigatore{
+    background-color: #00DD00;
+    text-align: center;
+    padding: 13px;
+  }
+
+/* DIFF. LIMBIKE */
+  .Monopattini .Via{
+    margin-bottom: 1px;
+    font-size: 18px;
+    color: white;
+    font-family: "brandon-grotesque", sans-serif;
+  }
+
+  .Monopattini .Carica{
+    margin-top: 1px;
+    margin-bottom: 1px;
+    font-size: 18px;
+    color: white;
+    font-family: "brandon-grotesque", sans-serif;
+  }
+
+
+    /* TESTO LIMBIKE */
+    .TypeMono {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 22px;
+      color: white;
+    }
+
+    .Barra1 {
+      margin-top: 1px;
+      background-color: orange;
+      padding: 10px;
+      margin-right: 600px;
+      border-radius: 9%;
+    }
+
+    .Barra2 {
+      margin-top: 1px;
+      background-color: #228B22;
+      padding: 10px;
+      margin-right: 300px;
+      border-radius: 9%;
+    }
+
+    .Barra3 {
+      margin-top: 1px;
+      background-color: #8B0000;
+      padding: 10px;
+      margin-right: 900px;
+      border-radius: 9%;
+    }
